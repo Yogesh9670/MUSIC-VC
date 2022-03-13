@@ -1,8 +1,8 @@
 {
-    "name": "Legend Music Player",
+    "name": "Prince Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
     "repository": "https://github.com/Yogesh9670/MUSIC-VC",
-    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
+    "logo": "https://github.com/Yogesh9670/MUSIC-VC/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
